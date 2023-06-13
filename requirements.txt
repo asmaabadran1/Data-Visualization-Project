@@ -1,0 +1,15 @@
+﻿pandas 
+plotly
+dash 
+dash_bootstrap_components
+gunicorn
+ipywidgets>=7.0.0
+numpy
+matplotlib
+pybase64
+pillow
+tensorflow
+keras
+dash-daq
+openpyxl
+onednn-cpu-gomp
